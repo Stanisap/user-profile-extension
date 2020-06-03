@@ -1,0 +1,7 @@
+.user, .page-numbers {
+    list-style-type: none;
+}
+.pages, .page-numbers li {
+    float: left;
+    margin-right: 10px;
+}
